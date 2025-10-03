@@ -5,13 +5,14 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Patterns/Patterns" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/Projects/Loop parameter" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/Projects/bitwise" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/Projects/Projects Random" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/Projects/Array" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/Projects/Utility" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Problems/Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Problems/Loop parameter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Problems/Projects Random" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Problems/Utility" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Problems/bitwise" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Problems/ClassesAndObjects" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/Patterns" />
-      <excludeFolder url="file://$MODULE_DIR$/src/Projects" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Problems" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
