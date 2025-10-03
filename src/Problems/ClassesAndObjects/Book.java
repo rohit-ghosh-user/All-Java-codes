@@ -56,5 +56,6 @@ public class Book {
         designOfThings.returnBook();
         newBook.returnBook();
         newBook.returnBook();
+        System.out.println(Book.getTotalBooks());
     }
 }
