@@ -33,7 +33,6 @@ public class Course {
 
     public static void main(String[] args) {
         Course designCourse = new Course("ECE",2);
-
     }
 
 }

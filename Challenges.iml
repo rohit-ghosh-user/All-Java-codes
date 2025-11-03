@@ -11,6 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/Problems/Utility" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Problems/bitwise" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/Problems/ClassesAndObjects" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Problems/ControlStatement,MathAndString" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/Patterns" />
       <excludeFolder url="file://$MODULE_DIR$/src/Problems" />
     </content>
